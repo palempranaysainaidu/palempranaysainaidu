@@ -1,11 +1,8 @@
 
 <!--
   GITHUB PROFILE README — Palem Pranay Sai Naidu (Enhanced Edition)
-  ────────────────────────────────────────────────────────────────
-  Only ONE thing left to do: replace YOUR_GITHUB_USERNAME (search & replace)
-  with your real GitHub username in every spot below.
-  Save this file as README.md inside a repo named EXACTLY your username
-  (e.g. github.com/yourusername/yourusername) for it to show on your profile.
+  Save this file as README.md inside a repo named EXACTLY: Palempranaysainaidu
+  i.e. github.com/Palempranaysainaidu/Palempranaysainaidu
 -->
 
 <div align="center">
@@ -19,11 +16,11 @@
 <a href="tel:+919063413447"><img src="https://img.shields.io/badge/Phone-+91_9063413447-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="mailto:pranaysainaidupalem562006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/palem-pranay-sai-naidu-b14b85328"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Palempranaysainaidu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00C2FF&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Palempranaysainaidu&label=Profile%20Views&color=00C2FF&style=flat-square" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/CGPA-8.83%2F10-brightgreen?style=flat-square"/>
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat-square"/>
 
@@ -206,14 +203,14 @@ Apr 2026 – May 2026   Full-Stack Web Development Intern — Osmania Technology
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Palempranaysainaidu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palempranaysainaidu&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Palempranaysainaidu&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Palempranaysainaidu&theme=tokyo-night&hide_border=true" width="90%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Palempranaysainaidu&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 
 </div>
 
@@ -254,7 +251,7 @@ Apr 2026 – May 2026   Full-Stack Web Development Intern — Osmania Technology
 <a href="tel:+919063413447"><img src="https://img.shields.io/badge/Phone-+91_9063413447-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="mailto:pranaysainaidupalem562006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/palem-pranay-sai-naidu-b14b85328"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Palempranaysainaidu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -264,3 +261,5 @@ Apr 2026 – May 2026   Full-Stack Web Development Intern — Osmania Technology
 
 </div>
 ```
+
+
