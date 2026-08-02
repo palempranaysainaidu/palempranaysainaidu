@@ -1,15 +1,10 @@
-
-<!--
-  GITHUB PROFILE README — Palem Pranay Sai Naidu (Enhanced Edition)
-  Save this file as README.md inside a repo named EXACTLY: Palempranaysainaidu
-  i.e. github.com/Palempranaysainaidu/Palempranaysainaidu
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00C2FF,100:8A2BE2&height=200&section=header&text=Palem%20Pranay%20Sai%20Naidu&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=200&section=header&text=PALEM%20PRANAY%20SAI%20NAIDU&fontSize=38&fontColor=ffffff&fontAlignY=45"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+AI+Systems+That+Solve+Real+Problems;Deep+Learning+%7C+NLP+%7C+Generative+AI;97%25+Accuracy+Brain+Tumor+Detection+Model;Open+to+AI%2FML+Internships+%26+Collaborations" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+AI+Systems+That+Solve+Real+Problems;Deep+Learning+%7C+NLP+%7C+Generative+AI;97%25+Accuracy+Brain+Tumor+Detection+Model;Open+to+AI%2FML+Internships+%26+Collaborations"/>
+
+<br/>
 
 <br/>
 
