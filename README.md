@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=220&section=header&text=Palem%20Pranay%20Sai%20Naidu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Data%20Science%20Undergrad&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00C2FF,100:8A2BE2&height=200&section=header&text=Palem%20Pranay%20Sai%20Naidu&fontSize=40&fontColor=ffffff"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+AI+Systems+That+Solve+Real+Problems;Deep+Learning+%7C+NLP+%7C+Generative+AI;97%25+Accuracy+Brain+Tumor+Detection+Model;Open+to+AI%2FML+Internships+%26+Collaborations" alt="Typing SVG"/>
 
